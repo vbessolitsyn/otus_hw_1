@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders app component 1`] = `
+<div>
+  <div
+    role="main"
+  >
+    <h1
+      class="header"
+    >
+       Задание 1: калькулятор 
+    </h1>
+    <p
+      class="main"
+    >
+      Введите выражение и нажмите [Enter]:
+      <br />
+      <br />
+      <input
+        class="input"
+        size="100"
+        spellcheck="false"
+        type="text"
+      />
+      <br />
+      <br />
+      Результат: 
+      <span
+        class="result"
+      />
+    </p>
+  </div>
+</div>
+`;
